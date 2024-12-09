@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moatazmohaamed&label=Profile%20views&color=0e75b6&style=flat" alt="moatazmohaamed" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moatazmohaamed" alt="moatazmohaamed" /></a> </p>
+
 - 🌱 I’m currently learning **Angular Frameworks**
 
 - 📫 How to reach me **moataz9898k@gmail.com**
@@ -10,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/moataz-mohamed0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moataz-mohamed0" height="30" width="40" /></a>
+<a href="https://instagram.com/moatazzl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moatazzl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
