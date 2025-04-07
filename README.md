@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **Angular Frameworks**
+- 🌱 I’m currently learning **React/NEXT Frameworks**
 
 - 📫 How to reach me **moataz9898k@gmail.com**
 
